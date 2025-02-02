@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates the ConcurrentModificationException.  The exception is commonly encountered when modifying a collection (like ArrayList) while iterating over it using an enhanced for loop (for-each loop). The solution demonstrates safe ways to modify the list during iteration.
